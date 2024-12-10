@@ -33,8 +33,8 @@ The website provides detailed information on medical units, their clinics, activ
 
 ## Technologies Used
 - **Frontend:** HTML, CSS, JavaScript
-- **Backend:** 
-- **Database:** MySQL or PostgreSQL
+- **Backend:** Node js --> Express.js 
+- **Database:** MySQL
 - **APIs:** RESTful APIs, Google Maps API
 - **Hosting:** Microsoft Azure or AWS
 
@@ -57,8 +57,8 @@ The design phase focused on creating a scalable and maintainable system architec
 
 ### Implementation
 - **Frontend Development:** HTML, CSS, and JavaScript were used to build a user-friendly interface with multi-language support.
-- **Backend Development:** ###### to handle server-side logic, user authentication, and CRUD operations.
-- **Database Integration:** MySQL or PostgreSQL for data management, ensuring scalability and reliability.
+- **Backend Development:** Express.js to handle server-side logic, user authentication, and CRUD operations.
+- **Database Integration:** MySQL for data management, ensuring scalability and reliability.
 - **API Integration:** Google Maps API for displaying clinic locations on an interactive map and RESTful APIs to do CRUD operations.
 
 ---
